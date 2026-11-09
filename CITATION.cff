@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use SāhityaLab in your research, please cite this software."
+title: "SāhityaLab: A Reproducible Research Workflow Toolkit"
+version: 0.1.0
+type: software
+date-released: 2026-11-09
+repository-code: "https://github.com/Kronnork/SahityaLab"
+license: MIT
+authors:
+  - name: "SāhityaLab Contributors"

@@ -1,0 +1,18 @@
+[
+  {
+    "reviewer": "Reviewer 1",
+    "comment": "The theoretical contribution is not sufficiently distinguished from prior work.",
+    "topic": "theoretical contribution",
+    "response": "",
+    "action_taken": "",
+    "manuscript_location": ""
+  },
+  {
+    "reviewer": "Reviewer 2",
+    "comment": "Please clarify the search strategy and explain how duplicate records were handled.",
+    "topic": "methodology",
+    "response": "",
+    "action_taken": "",
+    "manuscript_location": ""
+  }
+]

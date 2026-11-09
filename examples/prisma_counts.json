@@ -1,0 +1,11 @@
+{
+  "identified": 1200,
+  "duplicates_removed": 200,
+  "screened": 1000,
+  "records_excluded": 700,
+  "full_text_sought": 300,
+  "full_text_not_retrieved": 10,
+  "full_text_assessed": 290,
+  "full_text_excluded": 210,
+  "included": 80
+}
